@@ -1,0 +1,125 @@
+body {
+  font-family: "Be Vietnam Pro", sans-serif;
+  font-family: "Hind Siliguri", sans-serif;
+  font-family: "Luxurious Roman", cursive;
+  font-family: "Rubik", sans-serif;
+  font-family: "Ubuntu", sans-serif;
+  margin: 0;
+}
+#first-div h1 {
+  font-size: 50px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  border-left: 15px solid rgb(38, 137, 204);
+  padding-left: 10px;
+  border-radius: 10px;
+}
+#first-div p {
+  font-size: xx-large;
+}
+#first-div {
+  width: 100%;
+  padding-left: 150px;
+  padding-top: 150px;
+}
+#second-div {
+  padding-right: 50px;
+  padding-top: 50px;
+}
+.section-display {
+  display: flex;
+}
+.half-width {
+  width: 50%;
+  padding: 10px;
+}
+.main-span {
+  color: darkorange;
+}
+.button {
+  font-size: 25px;
+  text-decoration: none;
+  background-color: rgb(54, 79, 219);
+  color: white;
+  padding: 10px 30px;
+  border-radius: 15px;
+}
+.one-third-width {
+  width: 28%;
+  padding-left: 15px;
+  padding-right: 15px;
+  border-radius: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+#second-section {
+  padding: 20px;
+}
+#second-section h1 {
+  font-size: 50px;
+  text-align: center;
+}
+
+#third-div {
+  background-color: rgb(178, 224, 209);
+}
+#forth-div {
+  background-color: rgb(218, 204, 186);
+}
+#fifth-div {
+  background-color: rgb(159, 197, 206);
+}
+.ilastrator-image {
+  height: 150px;
+  width: 150px;
+}
+#second-main-div {
+  padding: 20px;
+}
+.one-third-width h2 {
+  font-size: 30px;
+}
+.one-third-width p {
+  font-size: xx-large;
+}
+#coding-image {
+  height: 500px;
+  width: 600px;
+}
+#six-div {
+  padding-left: 80px;
+  padding-right: 50px;
+  background-image: url(image/shapes/shape-1.png);
+  background-size: 200px;
+  background-repeat: no-repeat;
+  background-position: right;
+}
+#seven-div {
+  margin-right: 50px;
+  margin-top: 80px;
+}
+#seven-div h1 {
+  font-size: 50px;
+}
+#seven-div p {
+  font-size: xx-large;
+}
+#project-image {
+  height: 500px;
+  width: 500px;
+}
+#eight-div {
+  padding-left: 40px;
+  padding-top: 60px;
+}
+#nine-div {
+  padding-left: 40px;
+  background-image: url(image/shapes/shape-6.png);
+  background-size: 700px;
+  background-repeat: no-repeat;
+}
+#eight-div h1 {
+  font-size: 50px;
+}
+#eight-div p {
+  font-size: xx-large;
+}
